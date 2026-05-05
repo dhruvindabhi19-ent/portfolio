@@ -2,7 +2,7 @@
   "name": "dhruvin-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://riyasolanki.github.io/dhruvinPortfolio",
+  "homepage": "https://github.com/dhruvindabhi19-ent/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",

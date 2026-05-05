@@ -8,9 +8,17 @@ function Brands() {
   const [show, setShow] = useState(false);
   const [pdfUrl, setPdfUrl] = useState("");
 
+  const isMobile = () => {
+    return window.innerWidth <= 768;
+  };
+
   const handleOpenPdf = (url) => {
-    setPdfUrl(url);
-    setShow(true);
+    if (isMobile()) {
+      window.open(url, '_blank');
+    } else {
+      setPdfUrl(url);
+      setShow(true);
+    }
   };
 
   const handleClose = () => {
