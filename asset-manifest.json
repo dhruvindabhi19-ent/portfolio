@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cf1ce0fd.chunk.css",
+    "main.js": "/portfolio/static/js/main.a8fb890c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a8fb890c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.67874f3b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.67874f3b.js.map",
+    "static/css/2.331924ae.chunk.css": "/portfolio/static/css/2.331924ae.chunk.css",
+    "static/js/2.8febd8ee.chunk.js": "/portfolio/static/js/2.8febd8ee.chunk.js",
+    "static/js/2.8febd8ee.chunk.js.map": "/portfolio/static/js/2.8febd8ee.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.331924ae.chunk.css.map": "/portfolio/static/css/2.331924ae.chunk.css.map",
+    "static/css/main.cf1ce0fd.chunk.css.map": "/portfolio/static/css/main.cf1ce0fd.chunk.css.map",
+    "static/js/2.8febd8ee.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8febd8ee.chunk.js.LICENSE.txt",
+    "static/media/Berrito.e5df20ef.pdf": "/portfolio/static/media/Berrito.e5df20ef.pdf",
+    "static/media/Leo.40276f5a.pdf": "/portfolio/static/media/Leo.40276f5a.pdf",
+    "static/media/about.91228f46.jpeg": "/portfolio/static/media/about.91228f46.jpeg",
+    "static/media/acura.7d8adab8.pdf": "/portfolio/static/media/acura.7d8adab8.pdf",
+    "static/media/acura.c30f1e43.png": "/portfolio/static/media/acura.c30f1e43.png",
+    "static/media/aqua.a75f977e.png": "/portfolio/static/media/aqua.a75f977e.png",
+    "static/media/aquaexcel.3eec5497.pdf": "/portfolio/static/media/aquaexcel.3eec5497.pdf",
+    "static/media/ashirvad.9b10e8e3.jpg": "/portfolio/static/media/ashirvad.9b10e8e3.jpg",
+    "static/media/astral.02cbd52e.png": "/portfolio/static/media/astral.02cbd52e.png",
+    "static/media/bafit.1cc83ea6.jpg": "/portfolio/static/media/bafit.1cc83ea6.jpg",
+    "static/media/bafit1.a5e13364.pdf": "/portfolio/static/media/bafit1.a5e13364.pdf",
+    "static/media/carysil.31140196.png": "/portfolio/static/media/carysil.31140196.png",
+    "static/media/jaquar.55bb6f1f.png": "/portfolio/static/media/jaquar.55bb6f1f.png",
+    "static/media/kohler.52623634.jpg": "/portfolio/static/media/kohler.52623634.jpg",
+    "static/media/leo.d5b3df40.jpg": "/portfolio/static/media/leo.d5b3df40.jpg",
+    "static/media/logo.7ea7cd46.png": "/portfolio/static/media/logo.7ea7cd46.png",
+    "static/media/profile.e7809ea5.png": "/portfolio/static/media/profile.e7809ea5.png",
+    "static/media/waterflo.e2d17fc4.jpg": "/portfolio/static/media/waterflo.e2d17fc4.jpg",
+    "static/media/weatherbond.a488549c.pdf": "/portfolio/static/media/weatherbond.a488549c.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67874f3b.js",
+    "static/css/2.331924ae.chunk.css",
+    "static/js/2.8febd8ee.chunk.js",
+    "static/css/main.cf1ce0fd.chunk.css",
+    "static/js/main.a8fb890c.chunk.js"
+  ]
+}
