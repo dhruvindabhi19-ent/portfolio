@@ -501,6 +501,13 @@ html {
   border-top-right-radius: 10px;
 }
 
+.other-brand-card-img {
+  height: 100px;
+  width: 100%;
+  object-fit: contain;
+  padding: 10px;
+}
+
 .project-card-view {
   box-shadow: 0 4px 5px 3px #343e47 !important;
   color: #414141 !important;

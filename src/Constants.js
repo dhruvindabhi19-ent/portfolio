@@ -8,6 +8,16 @@ import WEATHERBOND from './Assets/Brands/zipofix.jpg';
 import WEATHERBONDPF from './Assets/Brands/pdf/weatherbond.pdf';
 import BERRITIO from "./Assets/Brands/berrito.jpg";
 import BERRITTOPDF from "./Assets/Brands/pdf/Berrito.pdf";
+import AQUA from './Assets/Brands/aqua.png';
+import AQUA1 from './Assets/Brands/aqua1.png';
+import AQUAPDF from './Assets/Brands/pdf/aquaexcel.pdf';
+import WATERFLO from './Assets/Brands/waterflo.jpg';
+import JAQUAR from './Assets/Brands/jaquar.png';
+import CERA from './Assets/Brands/cera.png';
+import KOHLER from './Assets/Brands/kohler.jpg';
+import CARYSIL from './Assets/Brands/carysil.png';
+import ASHIRVAD from './Assets/Brands/ashirvad.jpg';
+import ASTRAL from './Assets/Brands/astral.png';
 
 
 export const PROJECTS = [
@@ -35,6 +45,47 @@ export const PROJECTS = [
     image: BERRITIO,
     name: "Berrito",
     url: BERRITTOPDF,
+  },
+  {
+    image: AQUA1,
+    name: "Aqua Excel",
+    url: AQUAPDF,
+  },
+];
+
+export const OTHERBRANDS = [
+  {
+    name: "Astral Pipes",
+    image: ASTRAL,
+  },
+  // {
+  //   name: "Supreme",
+  //   image:
+  //     "https://seeklogo.com/images/S/supreme-logo-3B0A2AA6A5-seeklogo.com.png",
+  // },
+  {
+    name: "Waterflo Pipes & Fitting",
+    image: WATERFLO
+  },
+  {
+    name: "Jaquar",
+    image: JAQUAR,
+  },
+  {
+    name: "Cera",
+    image: CERA,
+  },
+  {
+    name: "Ashirvad Pipes",
+    image: ASHIRVAD,
+  },
+  {
+    name: "Kohler",
+    image: KOHLER,
+  },
+  {
+    name: "Carysil",
+    image: CARYSIL,
   },
 ];
 
